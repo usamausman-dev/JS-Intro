@@ -1,4 +1,6 @@
-<h1>FIRST TIME </h1>
+<h1 align="center">  Steps For Pushing File using GIT CLI  </h1>
+
+<h3>FIRST TIME </h3>
 
 <ul>
 <li>Step 1 - Initialize git repo ---> <b> git init</b> </li>
@@ -9,7 +11,7 @@
 
 </ul>
 
-<h1>EVERYTIME </h1>
+<h3>EVERYTIME </h3>
 <ul>
 <li>Step 1 - Add Files --> <b>git add . </b></li>
 <li>Step 2 - Commit Files --> <b> git commit -m "YOUR MESSAGE"</b> </li>
