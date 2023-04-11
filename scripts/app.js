@@ -29,4 +29,7 @@
 // Day 2 - 7 Apr 
 
 
-
+var zakat_percen = 0.025
+var user_asset = + prompt ("Asset Value")
+var result = zakat_percen*user_asset
+alert("Your Zakat="+result)
